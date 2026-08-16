@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-gxp30t.radarsatu88.shop/sitemap.xml
